@@ -1,11 +1,11 @@
 Model Information:
-* title:	(FREE) 1972 Datsun 240k GT
-* source:	https://sketchfab.com/3d-models/free-1972-datsun-240k-gt-b2303a552b444e5b8637fdf5169b41cb
-* author:	Karol Miklas (https://sketchfab.com/karolmiklas)
+* title:	Sword of Artorias
+* source:	https://sketchfab.com/3d-models/sword-of-artorias-298e29d014374a87b85b3bcdaa07a5ce
+* author:	Samize (https://sketchfab.com/samize)
 
 Model License:
-* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
-* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "(FREE) 1972 Datsun 240k GT" (https://sketchfab.com/3d-models/free-1972-datsun-240k-gt-b2303a552b444e5b8637fdf5169b41cb) by Karol Miklas (https://sketchfab.com/karolmiklas) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+This work is based on "Sword of Artorias" (https://sketchfab.com/3d-models/sword-of-artorias-298e29d014374a87b85b3bcdaa07a5ce) by Samize (https://sketchfab.com/samize) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
